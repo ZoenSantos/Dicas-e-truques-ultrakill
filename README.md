@@ -1,5 +1,3 @@
-# Dicas-e-truques-ultrakill
-
 # Dicas e Truques ULTRAKILL
 
 ## Sobre o Projeto
