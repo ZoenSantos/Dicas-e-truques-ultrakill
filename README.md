@@ -4,7 +4,7 @@
 Este projeto é um website dedicado a fornecer dicas e truques para o jogo ULTRAKILL, destinado a ajudar jogadores a melhorar suas habilidades e superar desafios no jogo. O site reúne estratégias eficazes, mecânicas de jogo e links úteis em um formato fácil de navegar.
 
 ## Motivação
-A inspiração para este projeto surgiu da falta de uma plataforma centralizada onde jogadores pudessem acessar e compartilhar informações detalhadas sobre o jogo ULTRAKILL. Ao observar as discussões em fóruns e redes sociais, percebeu-se a necessidade de um recurso organizado que facilitasse o acesso e a compreensão dessas dicas.
+A inspiração para este projeto surgiu da falta de uma plataforma centralizada onde jogadores pudessem acessar informações detalhadas sobre o jogo ULTRAKILL. Ao observar as discussões em fóruns e redes sociais, percebeu-se a necessidade de um recurso organizado que facilitasse o acesso e a compreensão dessas dicas.
 
 ## Tecnologias Utilizadas
 - **HTML** - Estruturação do conteúdo da página.
